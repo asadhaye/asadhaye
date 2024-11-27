@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a **full-stack developer**, **digital marketer
 
 I'm always open to new opportunities and collaborations! Feel free to connect with me on:
 
-- **Email**: [your-email@example.com](mailto:info@asadhaye.com)
+- **Email**: [asadhaye@gmail.com](mailto:info@asadhaye.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/asadhaye)
 - **Website**: [Portfolio Website Link](https://asadhaye.com)
 
