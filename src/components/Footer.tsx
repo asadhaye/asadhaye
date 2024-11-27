@@ -33,8 +33,8 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Us</h4>
             <div className="space-y-2 text-gray-400">
-              <p>Email: contact@etailco.com</p>
-              <p>Phone: +1 (555) 123-4567</p>
+              <p>Email: contact@asadhaye.com</p>
+              <p>Phone: +92 (313) 844-4321</p>
               <div className="flex space-x-4 mt-4">
                 <a href="#" className="hover:text-indigo-400"><Facebook className="h-5 w-5" /></a>
                 <a href="#" className="hover:text-indigo-400"><Twitter className="h-5 w-5" /></a>
