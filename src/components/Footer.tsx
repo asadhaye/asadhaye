@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { Facebook, Twitter, Instagram, Linkedin, Mail } from 'lucide-react';
 
 // Constants
@@ -28,19 +27,19 @@ export default function Footer() {
           <nav>
             <h4 className="text-lg font-semibold mb-4">Quick Links</h4>
             <ul className="space-y-2">
-              <li><Link to="/about" className="text-gray-400 hover:text-white">About Us</Link></li>
-              <li><Link to="/services" className="text-gray-400 hover:text-white">Services</Link></li>
-              <li><Link to="/portfolio" className="text-gray-400 hover:text-white">Portfolio</Link></li>
-              <li><Link to="/blog" className="text-gray-400 hover:text-white">Blog</Link></li>
+              <li><a href="/about" className="text-gray-400 hover:text-white">About Us</a></li>
+              <li><a href="/services" className="text-gray-400 hover:text-white">Services</a></li>
+              <li><a href="/portfolio" className="text-gray-400 hover:text-white">Portfolio</a></li>
+              <li><a href="/blog" className="text-gray-400 hover:text-white">Blog</a></li>
             </ul>
           </nav>
           <nav>
             <h4 className="text-lg font-semibold mb-4">Services</h4>
             <ul className="space-y-2">
-              <li><Link to="/services/web-development" className="text-gray-400 hover:text-white">Web Development</Link></li>
-              <li><Link to="/services/ai-solutions" className="text-gray-400 hover:text-white">AI Solutions</Link></li>
-              <li><Link to="/services/digital-marketing" className="text-gray-400 hover:text-white">Digital Marketing</Link></li>
-              <li><Link to="/services/ecommerce" className="text-gray-400 hover:text-white">E-commerce Setup</Link></li>
+              <li><a href="/services/web-development" className="text-gray-400 hover:text-white">Web Development</a></li>
+              <li><a href="/services/ai-solutions" className="text-gray-400 hover:text-white">AI Solutions</a></li>
+              <li><a href="/services/digital-marketing" className="text-gray-400 hover:text-white">Digital Marketing</a></li>
+              <li><a href="/services/ecommerce" className="text-gray-400 hover:text-white">E-commerce Setup</a></li>
             </ul>
           </nav>
           <section>
